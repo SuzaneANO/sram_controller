@@ -1,0 +1,22 @@
+# OpenLane run directories
+runs/
+*.log
+*.rpt
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build artifacts (if any)
+*.o
+*.a
