@@ -159,10 +159,9 @@ sram_controller_github/
 
 ### GDSII Layout
 
-*Add GDSII layout screenshot here:*
-- Open the final GDSII file in KLayout: `designs/sram_controller/runs/*/results/final/gds/sram_controller.gds`
-- Take a screenshot showing the complete layout with SRAM macro and controller logic
-- Save as `gdsii_layout.png` in this directory
+![GDSII Layout](gdsii_layout.png)
+
+*Complete physical design showing SRAM macro (central green block) and controller logic with extensive decoupling capacitors for power integrity.*
 
 ## Running the Design
 
