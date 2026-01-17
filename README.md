@@ -147,10 +147,10 @@ sram_controller_github/
 - **Power Domains**: 2 (vccd1 controller, vccd2 SRAM)
 
 ### Timing Results
-- **Worst-Case Slack**: > 1.0 ns (meets NFR1)
+- **Worst-Case Slack**: > 1.0 ns
 - **Falling-Edge Paths**: Properly constrained with 0.484 ns delay
-- **CDC Paths**: Zero violations (NFR6)
-- **Clock Gating**: 0.8955 ns minimum pulse width (NFR5)
+- **CDC Paths**: Zero violations
+- **Clock Gating**: 0.8955 ns minimum pulse width
 
 ### Physical Verification
 - **DRC**: All violations resolved
